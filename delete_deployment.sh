@@ -1,5 +1,5 @@
 #!/bin/bash
-# This shell script takes repository name abd json file as the parameter 
+# This shell script takes repository name and json file as the parameter 
 OWNER="<owner-name>"
 REPO=$1
 GHA_TOKEN="<your-github-token>
